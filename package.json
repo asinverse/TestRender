@@ -1,0 +1,20 @@
+{
+  "name": "Render",
+  "main": "index.html",
+  "version": "0.0.1",
+  "single-instance": true,
+  "window": {
+    "title": "Render",
+    "toolbar": true,
+    "frame": true,
+    "width": 670,
+    "height": 530,
+    "position": "center",
+    "resizable": false,
+    "show": true
+  },
+  "webkit": {
+    "page-cache": false,
+    "plugin": false
+  }
+}
